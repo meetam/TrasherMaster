@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Meeta/AndroidStudioProjects/trasher-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Meeta/AndroidStudioProjects/trasher-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d07384f998afe13b51511356e01af72a08474132/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Meeta/AndroidStudioProjects/trasher-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cff8009e2f071f58763b4192f496c25c967da711">
+        <dex dex="/Users/Meeta/AndroidStudioProjects/trasher-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_85cdc5a75825109be0720bc0263a319c711c0143/classes.dex" />
+    </item>
+
+</items>
